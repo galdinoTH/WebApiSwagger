@@ -1,0 +1,15 @@
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\netcoreapp2.2\WebApp.deps.json
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\netcoreapp2.2\WebApp.runtimeconfig.json
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\netcoreapp2.2\WebApp.dll
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\netcoreapp2.2\WebApp.pdb
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\netcoreapp2.2\WebApplication1.xml
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.dll
+C:\Users\ThGaldino\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApp.pdb
